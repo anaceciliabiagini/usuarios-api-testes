@@ -1,0 +1,17 @@
+{
+  "name": "usuarios-api",
+  "version": "1.0.0",
+  "description": "API de usuários com dados mockados para exercício de testes unitários",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
